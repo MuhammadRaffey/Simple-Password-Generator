@@ -13,7 +13,7 @@ This is a simple Random Password Generator application built using Python and Tk
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9 and above
 - Tkinter library (comes pre-installed with standard Python distribution)
 
 ## Installation
