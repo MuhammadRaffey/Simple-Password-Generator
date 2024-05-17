@@ -58,9 +58,7 @@ The main script `main.py` contains the following:
 
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes or improvements.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
